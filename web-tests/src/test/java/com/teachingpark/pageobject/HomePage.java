@@ -1,12 +1,13 @@
-package org.teachingpark.pageobject;
+package com.teachingpark.pageobject;
 
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.pagefactory.AjaxElementLocatorFactory;
-import org.teachingpark.Utils.TestWebDriver;
-import org.teachingpark.properties.ApplicationConfig;
+
+import com.teachingpark.Utils.TestWebDriver;
+import com.teachingpark.properties.ApplicationConfig;
 
 import java.io.IOException;
 import java.util.List;

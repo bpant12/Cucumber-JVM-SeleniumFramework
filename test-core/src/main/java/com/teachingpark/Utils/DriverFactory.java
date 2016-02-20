@@ -1,4 +1,4 @@
-package org.teachingpark.Utils;
+package com.teachingpark.Utils;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;

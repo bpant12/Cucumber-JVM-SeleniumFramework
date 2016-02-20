@@ -1,4 +1,4 @@
-package org.teachingpark.properties;
+package com.teachingpark.properties;
 
 import java.io.File;
 import java.io.IOException;

@@ -1,7 +1,8 @@
-package org.teachingpark.pageobject;
+package com.teachingpark.pageobject;
 
 import org.openqa.selenium.WebElement;
-import org.teachingpark.Utils.TestWebDriver;
+
+import com.teachingpark.Utils.TestWebDriver;
 
 public abstract class Page {
 

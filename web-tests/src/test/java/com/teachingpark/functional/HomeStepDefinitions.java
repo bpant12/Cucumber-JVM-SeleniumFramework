@@ -1,4 +1,4 @@
-package org.teachingpark.functional;
+package com.teachingpark.functional;
 
 import cucumber.api.Scenario;
 import cucumber.api.java.After;
@@ -8,9 +8,10 @@ import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 import org.junit.Assert;
-import org.teachingpark.Utils.ManageTest;
-import org.teachingpark.pageobject.HomePage;
-import org.teachingpark.properties.ApplicationConfig;
+
+import com.teachingpark.Utils.ManageTest;
+import com.teachingpark.pageobject.HomePage;
+import com.teachingpark.properties.ApplicationConfig;
 
 import java.io.IOException;
 import java.sql.SQLException;
